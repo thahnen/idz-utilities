@@ -1,0 +1,6 @@
+# macOS
+**/.DS_Store
+
+# Sonar Scanner
+**/.sonar-project.properties
+**/.scannerwork
